@@ -1,0 +1,13 @@
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\bin\Debug\QuanLyNguoiDungApp.exe.config
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\bin\Debug\QuanLyNguoiDungApp.exe
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\bin\Debug\QuanLyNguoiDungApp.pdb
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.csproj.AssemblyReference.cache
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.Properties.Resources.resources
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.csproj.GenerateResource.cache
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.csproj.CoreCompileInputs.cache
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.exe
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.pdb
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.exe.config
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.Forms.SignupForm.resources
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.Forms.LoginForm.resources
+D:\LTM\BTVN_Week_3\QuanLyNguoiDungApp\QuanLyNguoiDungApp\obj\Debug\QuanLyNguoiDungApp.Forms.ProfileForm.resources
